@@ -119,7 +119,7 @@ export default function Home() {
                   <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay={100}>
                     <div className="count-box">
                       <i className="icofont-document-folder" />
-                      <span data-toggle="counter-up">20+</span>
+                      <span data-toggle="counter-up">20</span>
                       <p><strong>Projects</strong> that I made</p>
                     </div>
                   </div>
@@ -218,10 +218,10 @@ export default function Home() {
                       <p>Master of Science (Information Technology) : King mongkut's institute of technology ladkrabang</p>
                     </div>
                     <div className="resume-item">
-                      <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-                      <h5>2010 - 2014</h5>
-                      <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                      <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+                      <h4>Bachelor of Business Administration Program in Business Computer</h4>
+                      <h5>2006 - 2009</h5>
+                      <p><em>Bachelor of Business Administration Program in Business Computer</em></p>
+                      <p>Rajabhat Suan Sunandha University</p>
                     </div>
                   </div>
                   <div className="col-lg-6" data-aos="fade-up" data-aos-delay={100}>
@@ -263,9 +263,9 @@ members</li>
                   <div className="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
                       <li data-filter="*" className="filter-active">All</li>
-                      <li data-filter=".filter-app">Programming Language</li>
+                      <li data-filter=".filter-app">Programming</li>
                       <li data-filter=".filter-card">DevOps</li>
-                      <li data-filter=".filter-web">DB</li>
+                      <li data-filter=".filter-web">Database</li>
                     </ul>
                   </div>
                 </div>
@@ -300,6 +300,33 @@ members</li>
                   <div className="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/java.jpg" className="img-fluid" />
+                      <div className="portfolio-links">
+                        <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" className="venobox" title="Card 2"><i className="bx bx-plus" /></a>
+                        <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <div className="portfolio-wrap">
+                      <img src="assets/img/portfolio/asp-net-core-mvc.jpg" className="img-fluid" />
+                      <div className="portfolio-links">
+                        <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" className="venobox" title="Card 2"><i className="bx bx-plus" /></a>
+                        <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <div className="portfolio-wrap">
+                      <img src="assets/img/portfolio/laravel.jpg" className="img-fluid" />
+                      <div className="portfolio-links">
+                        <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" className="venobox" title="Card 2"><i className="bx bx-plus" /></a>
+                        <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                    <div className="portfolio-wrap">
+                      <img src="assets/img/portfolio/nextjs.jpg" className="img-fluid" />
                       <div className="portfolio-links">
                         <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" className="venobox" title="Card 2"><i className="bx bx-plus" /></a>
                         <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
