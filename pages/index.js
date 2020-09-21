@@ -266,7 +266,7 @@ members</li>
                       <li data-filter="*" className="filter-active">All</li>
                       <li data-filter=".filter-app">Programming</li>
                       <li data-filter=".filter-card">DevOps</li>
-                      <li data-filter=".filter-web">Database</li>
+                      <li data-filter=".filter-db">Database</li>
                     </ul>
                   </div>
                 </div>
@@ -280,7 +280,7 @@ members</li>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-web">
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-db">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/mongodb.jpg" className="img-fluid" />
                       <div className="portfolio-links">
@@ -298,7 +298,7 @@ members</li>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/java.jpg" className="img-fluid" />
                       <div className="portfolio-links">
@@ -307,7 +307,7 @@ members</li>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/asp-net-core-mvc.jpg" className="img-fluid" />
                       <div className="portfolio-links">
@@ -316,7 +316,7 @@ members</li>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/laravel.jpg" className="img-fluid" />
                       <div className="portfolio-links">
@@ -325,7 +325,7 @@ members</li>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/nextjs.jpg" className="img-fluid" />
                       <div className="portfolio-links">
@@ -334,7 +334,7 @@ members</li>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-web">
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/react.jpg" className="img-fluid" />
                       <div className="portfolio-links">
@@ -343,7 +343,7 @@ members</li>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/openshift.jpg" className="img-fluid" />
                       <div className="portfolio-links">
@@ -370,7 +370,7 @@ members</li>
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-4 col-md-6 portfolio-item filter-web">
+                  <div className="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div className="portfolio-wrap">
                       <img src="assets/img/portfolio/python.jpg" className="img-fluid" />
                       <div className="portfolio-links">
