@@ -30,7 +30,7 @@ export default function Home() {
             <div className="d-flex flex-column">
               <div className="profile">
                 <img src="assets/img/profile-img.jpg" className="img-fluid rounded-circle" />
-                <h1 className="text-light"><a href="index.html">Pornpong Inpang</a></h1>
+                <h1 className="text-light"><a href="#">Pornpong Inpang</a></h1>
                 <div className="social-links mt-3 text-center">
                   <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>
                   <a href="#" className="facebook"><i className="bx bxl-facebook" /></a>
@@ -41,7 +41,7 @@ export default function Home() {
               </div>
               <nav className="nav-menu">
                 <ul>
-                  <li className="active"><a href="index.html"><i className="bx bx-home" /> <span>Home</span></a></li>
+                  <li className="active"><a href="#hero"><i className="bx bx-home" /> <span>Home</span></a></li>
                   <li><a href="#about"><i className="bx bx-user" /> <span>About</span></a></li>
                   <li><a href="#resume"><i className="bx bx-file-blank" /> <span>Resume</span></a></li>
                   <li><a href="#portfolio"><i className="bx bx-book-content" /> Portfolio</a></li>
@@ -74,30 +74,28 @@ export default function Home() {
                   <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
                     <h3>DevOpsEngineer &amp; Developer.</h3>
                     <p className="font-italic">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                      magna aliqua.
+                      Innovative optimized solution seeker. Excited to be at the deployment phase of my new career as a web developer. I am ambitious, adventurous, assiduous, animated, and an alliteration advocate.
             </p>
                     <div className="row">
                       <div className="col-lg-6">
                         <ul>
                           <li><i className="icofont-rounded-right" /> <strong>Birthday:</strong> 29 December 1986</li>
                           <li><i className="icofont-rounded-right" /> <strong>LinkIn:</strong><a target="_blank" href="https://www.linkedin.com/in/pawnpong-inpang-3757b0118/"> <i className="bx bxl-linkedin" /> pawnpong-inpang</a></li>
-                          <li><i className="icofont-rounded-right" /> <strong>Phone:</strong> +123 456 7890</li>
-                          <li><i className="icofont-rounded-right" /> <strong>City:</strong> City : New York, USA</li>
+                          <li><i className="icofont-rounded-right" /> <strong>Phone:</strong> (+66)89-3052270</li>
+                          <li><i className="icofont-rounded-right" /> <strong>City:</strong> Bangkok , Thailand</li>
                         </ul>
                       </div>
                       <div className="col-lg-6">
                         <ul>
                           <li><i className="icofont-rounded-right" /> <strong>Age:</strong> 34</li>
-                          <li><i className="icofont-rounded-right" /> <strong>Degree:</strong> Master</li>
+                          <li><i className="icofont-rounded-right" /> <strong>Degree:</strong> Master of Science</li>
+                          <li><i className="icofont-rounded-right" /> <strong>Field of study:</strong> Infomation Technology</li>
                           <li><i className="icofont-rounded-right" /> <strong>Email:</strong> inpang_nook@hotmail.com</li>
-                          <li><i className="icofont-rounded-right" /> <strong>Freelance:</strong> Available</li>
                         </ul>
                       </div>
                     </div>
                     <p>
-                      Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-                      Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+                      Participated in integration of new systems with legacy software. Performed routine software testing and debugging. Developed new user interface for patient record system that increased productivity and reduced errors. Supervised programming department and ensured compliance with quality standards and documentation requirements.
             </p>
                   </div>
                 </div>
@@ -108,35 +106,35 @@ export default function Home() {
               <div className="container">
                 <div className="section-title">
                   <h2>Facts</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>There are multiple types of programmers in the world from front-end and back-end professionals to specialized application developers and software testers. With that being said, at some point in your IT career path, you will probably choose which area to focus on. Well unless you're passionate about every aspect of the software development process. If that's your case then becoming a full stack developer might be the best option for you since these professionals have functional knowledge and extensive experience in diverse and basically all aspects of computer software development. Simply said, they are able to take a concept and turn it into a finished product.</p>
                 </div>
                 <div className="row no-gutters">
-                  <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+                  {/* <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
                     <div className="count-box">
                       <i className="icofont-simple-smile" />
                       <span data-toggle="counter-up">232</span>
                       <p><strong>Happy Clients</strong> consequuntur quae</p>
                     </div>
-                  </div>
+                  </div> */}
                   <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay={100}>
                     <div className="count-box">
                       <i className="icofont-document-folder" />
-                      <span data-toggle="counter-up">521</span>
-                      <p><strong>Projects</strong> adipisci atque cum quia aut</p>
+                      <span data-toggle="counter-up">20+</span>
+                      <p><strong>Projects</strong> that I made</p>
                     </div>
                   </div>
                   <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay={200}>
                     <div className="count-box">
                       <i className="icofont-live-support" />
-                      <span data-toggle="counter-up">1,463</span>
-                      <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+                      <span data-toggle="counter-up">24 </span>
+                      <p><strong>Hours Of Support</strong> </p>
                     </div>
                   </div>
                   <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay={300}>
                     <div className="count-box">
                       <i className="icofont-users-alt-5" />
-                      <span data-toggle="counter-up">15</span>
-                      <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+                      <span data-toggle="counter-up">4</span>
+                      <p><strong>Team Members</strong> for flexibility</p>
                     </div>
                   </div>
                 </div>
@@ -147,46 +145,46 @@ export default function Home() {
               <div className="container">
                 <div className="section-title">
                   <h2>Skills</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>The list of techical and my aptitude.</p>
                 </div>
                 <div className="row skills-content">
                   <div className="col-lg-6" data-aos="fade-up">
                     <div className="progress">
-                      <span className="skill">HTML <i className="val">100%</i></span>
+                      <span className="skill">MERN Stack <i className="val">100%</i></span>
                       <div className="progress-bar-wrap">
                         <div className="progress-bar" role="progressbar" aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
                       </div>
                     </div>
                     <div className="progress">
-                      <span className="skill">CSS <i className="val">90%</i></span>
+                      <span className="skill">ASP.net + SQL Server <i className="val">100%</i></span>
                       <div className="progress-bar-wrap">
-                        <div className="progress-bar" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} />
+                        <div className="progress-bar" role="progressbar" aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
                       </div>
                     </div>
                     <div className="progress">
-                      <span className="skill">JavaScript <i className="val">75%</i></span>
+                      <span className="skill">React <i className="val">90%</i></span>
                       <div className="progress-bar-wrap">
-                        <div className="progress-bar" role="progressbar" aria-valuenow={75} aria-valuemin={0} aria-valuemax={100} />
+                        <div className="progress-bar" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} />
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6" data-aos="fade-up" data-aos-delay={100}>
+                  <div className="col-lg-6" data-aos="fade-up" >
                     <div className="progress">
-                      <span className="skill">PHP <i className="val">80%</i></span>
+                      <span className="skill">Laravel <i className="val">100%</i></span>
                       <div className="progress-bar-wrap">
-                        <div className="progress-bar" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} />
+                        <div className="progress-bar" role="progressbar" aria-valuenow={100} aria-valuemin={0} aria-valuemax={100} />
                       </div>
                     </div>
                     <div className="progress">
-                      <span className="skill">WordPress/CMS <i className="val">90%</i></span>
+                      <span className="skill">Jenkins + Openshift <i className="val">90%</i></span>
                       <div className="progress-bar-wrap">
                         <div className="progress-bar" role="progressbar" aria-valuenow={90} aria-valuemin={0} aria-valuemax={100} />
                       </div>
                     </div>
                     <div className="progress">
-                      <span className="skill">Photoshop <i className="val">55%</i></span>
+                      <span className="skill">Python <i className="val">70%</i></span>
                       <div className="progress-bar-wrap">
-                        <div className="progress-bar" role="progressbar" aria-valuenow={55} aria-valuemin={0} aria-valuemax={100} />
+                        <div className="progress-bar" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} />
                       </div>
                     </div>
                   </div>
@@ -198,7 +196,7 @@ export default function Home() {
               <div className="container">
                 <div className="section-title">
                   <h2>Resume</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>The list of techical and my aptitude </p>
                 </div>
                 <div className="row">
                   <div className="col-lg-6" data-aos="fade-up">
@@ -214,10 +212,10 @@ export default function Home() {
                     </div>
                     <h3 className="resume-title">Education</h3>
                     <div className="resume-item">
-                      <h4>Master of Fine Arts &amp; Graphic Design</h4>
-                      <h5>2015 - 2016</h5>
-                      <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-                      <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+                      <h4>Master of Science &amp; Information of Technology</h4>
+                      <h5>2009 - 2011</h5>
+                      <p><em>Master of Science Program in Information Technology</em></p>
+                      <p>Master of Science (Information Technology) : King mongkut's institute of technology ladkrabang</p>
                     </div>
                     <div className="resume-item">
                       <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
@@ -229,25 +227,25 @@ export default function Home() {
                   <div className="col-lg-6" data-aos="fade-up" data-aos-delay={100}>
                     <h3 className="resume-title">Professional Experience</h3>
                     <div className="resume-item">
-                      <h4>Senior graphic design specialist</h4>
+                      <h4>DevOpsEngineer & Developer</h4>
                       <h5>2019 - Present</h5>
-                      <p><em>Experion, New York, NY </em></p>
+                      <p><em>PTT Digital Solutions </em></p>
                       <ul>
-                        <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                        <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                        <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                        <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                        <li>Software Development For PTT Group</li>
+                        <li>Meeting with the clients to get and discuss the project requirement & workflow</li>
+                        <li>DevOps Operations</li>
                       </ul>
                     </div>
                     <div className="resume-item">
-                      <h4>Graphic design specialist</h4>
-                      <h5>2017 - 2018</h5>
-                      <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                      <h4>Senior Developer</h4>
+                      <h5>2009 - 2018</h5>
+                      <p><em>TOT Public Company</em></p>
                       <ul>
-                        <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                        <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                        <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                        <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                        <li>Meeting with the clients to discuss the project requirement & workflow</li>
+                        <li>Setting each project’s workflow, schedule , and deliverables</li>
+                        <li>Overssing a team of 5 developers ;answering technical and procedural questions for
+                        less experienced team members; teaching improved processes; mentoring team
+members</li>
                       </ul>
                     </div>
                   </div>
@@ -259,15 +257,15 @@ export default function Home() {
               <div className="container">
                 <div className="section-title">
                   <h2>Tech Stack</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>The list of tech stack which I can.</p>
                 </div>
                 <div className="row" data-aos="fade-up">
                   <div className="col-lg-12 d-flex justify-content-center">
                     <ul id="portfolio-flters">
                       <li data-filter="*" className="filter-active">All</li>
-                      <li data-filter=".filter-app">App</li>
-                      <li data-filter=".filter-card">Card</li>
-                      <li data-filter=".filter-web">Web</li>
+                      <li data-filter=".filter-app">Programming Language</li>
+                      <li data-filter=".filter-card">DevOps</li>
+                      <li data-filter=".filter-web">DB</li>
                     </ul>
                   </div>
                 </div>
@@ -337,7 +335,7 @@ export default function Home() {
                   </div>
                   <div className="col-lg-4 col-md-6 portfolio-item filter-card">
                     <div className="portfolio-wrap">
-                      <img src="assets/img/portfolio/portfolio-8.jpg" className="img-fluid" />
+                      <img src="assets/img/portfolio/jenkins.jpg" className="img-fluid" />
                       <div className="portfolio-links">
                         <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" className="venobox" title="Card 3"><i className="bx bx-plus" /></a>
                         <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
@@ -346,7 +344,7 @@ export default function Home() {
                   </div>
                   <div className="col-lg-4 col-md-6 portfolio-item filter-web">
                     <div className="portfolio-wrap">
-                      <img src="assets/img/portfolio/portfolio-9.jpg" className="img-fluid" />
+                      <img src="assets/img/portfolio/python.jpg" className="img-fluid" />
                       <div className="portfolio-links">
                         <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" className="venobox" title="Web 3"><i className="bx bx-plus" /></a>
                         <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
@@ -357,7 +355,7 @@ export default function Home() {
               </div>
             </section>{/* End Portfolio Section */}
             {/* ======= Services Section ======= */}
-            <section id="services" className="services">
+            {/* <section id="services" className="services">
               <div className="container">
                 <div className="section-title">
                   <h2>Services</h2>
@@ -396,7 +394,8 @@ export default function Home() {
                   </div>
                 </div>
               </div>
-            </section>{/* End Services Section */}
+            </section> */}
+            {/* End Services Section */}
             {/* ======= Testimonials Section ======= */}
             {/* <section id="testimonials" className="testimonials section-bg">
               <div className="container">
@@ -459,11 +458,11 @@ export default function Home() {
               </div>
             </section>End Testimonials Section */}
             {/* ======= Contact Section ======= */}
-            <section id="contact" className="contact section-bg">
+            <section id="contact" className="contact ">
               <div className="container">
                 <div className="section-title">
                   <h2>Contact</h2>
-                  <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                  <p>Please feel free to contact me by this below.</p>
                 </div>
                 <div className="row" data-aos="fade-in">
                   <div className="col-lg-5 d-flex align-items-stretch">
@@ -471,19 +470,19 @@ export default function Home() {
                       <div className="address">
                         <i className="icofont-google-map" />
                         <h4>Location:</h4>
-                        <p>A108 Adam Street, New York, NY 535022</p>
+                        <p>Ramintra Rd , Tharang Bangkhen</p>
                       </div>
                       <div className="email">
                         <i className="icofont-envelope" />
                         <h4>Email:</h4>
-                        <p>info@example.com</p>
+                        <p>inpang_nook@hotmail.com</p>
                       </div>
                       <div className="phone">
                         <i className="icofont-phone" />
                         <h4>Call:</h4>
-                        <p>+1 5589 55488 55s</p>
+                        <p>(+66) 89-305-2270</p>
                       </div>
-                      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameBorder={0} style={{ border: 0, width: '100%', height: 290 }} allowFullScreen />
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d968.4157377423915!2d100.63131252920634!3d13.859259199392381!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x311d62b1cc26da19%3A0xf2019fa2c3fafa5c!2s82%20Soi%202%2C%20Khwaeng%20Tha%20Raeng%2C%20Khet%20Bang%20Khen%2C%20Krung%20Thep%20Maha%20Nakhon%2010220!5e0!3m2!1sen!2sth!4v1600679947736!5m2!1sen!2sth" frameBorder={0} style={{ border: 0, width: '100%', height: 290 }} allowFullScreen />
                     </div>
                   </div>
                   <div className="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
