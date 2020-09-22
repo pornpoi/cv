@@ -21,7 +21,7 @@ export default () => {
                             <div className="count-box">
                                 <i className="icofont-document-folder" />
                                 <span data-toggle="counter-up">20</span>
-                                <p><strong>Projects</strong> that I made</p>
+                                <p><strong>Projects</strong>made by me</p>
                             </div>
                         </div>
                         <div className="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay={200}>
