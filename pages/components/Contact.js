@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Contact = () => {
+export default () => {
     return (
         <>
             <section id="contact" className="contact ">
@@ -71,4 +71,4 @@ const Contact = () => {
     );
 };
 
-export default Contact;
+// export default Contact;
