@@ -7,7 +7,7 @@ export default () => {
                 <div className="container">
                     <div className="section-title">
                         <h2>Resume</h2>
-                        <p>The list of techical and my aptitude </p>
+                        <p>You can get to know me better by the description below.</p>
                     </div>
                     <div className="row">
                         <div className="col-lg-6" data-aos="fade-up">
