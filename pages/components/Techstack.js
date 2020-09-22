@@ -128,6 +128,60 @@ export default () => {
                                 </div>
                             </div>
                         </div>
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-db">
+                            <div className="portfolio-wrap">
+                                <img src="assets/img/portfolio/redis.jpg" className="img-fluid" />
+                                <div className="portfolio-links">
+                                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" className="venobox" title="Web 3"><i className="bx bx-plus" /></a>
+                                    <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-db">
+                            <div className="portfolio-wrap">
+                                <img src="assets/img/portfolio/sqlserver.jpg" className="img-fluid" />
+                                <div className="portfolio-links">
+                                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" className="venobox" title="Web 3"><i className="bx bx-plus" /></a>
+                                    <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-db">
+                            <div className="portfolio-wrap">
+                                <img src="assets/img/portfolio/mysql.jpg" className="img-fluid" />
+                                <div className="portfolio-links">
+                                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" className="venobox" title="Web 3"><i className="bx bx-plus" /></a>
+                                    <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                            <div className="portfolio-wrap">
+                                <img src="assets/img/portfolio/git.jpg" className="img-fluid" />
+                                <div className="portfolio-links">
+                                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" className="venobox" title="Web 3"><i className="bx bx-plus" /></a>
+                                    <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                            <div className="portfolio-wrap">
+                                <img src="assets/img/portfolio/grafana.jpg" className="img-fluid" />
+                                <div className="portfolio-links">
+                                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" className="venobox" title="Web 3"><i className="bx bx-plus" /></a>
+                                    <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-card">
+                            <div className="portfolio-wrap">
+                                <img src="assets/img/portfolio/docker.jpg" className="img-fluid" />
+                                <div className="portfolio-links">
+                                    <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" className="venobox" title="Web 3"><i className="bx bx-plus" /></a>
+                                    <a href="portfolio-details.html" title="More Details"><i className="bx bx-link" /></a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
